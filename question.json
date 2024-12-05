@@ -138,5 +138,251 @@
         "rep3": "La trachée",
         "rep4": "L'œsophage",
         "numReponse": 1
-    }
+    },
+    {
+        "numero": 17,
+        "textQuestion": "Quel rôle joue le système circulatoire dans le corps humain ?",
+        "rep1": "Transporter l'oxygène et les nutriments",
+        "rep2": "Défendre contre les infections",
+        "rep3": "Maintenir la température du corps",
+        "rep4": "Filtrer les toxines",
+        "numReponse": 1
+      },
+      {
+        "numero": 18,
+        "textQuestion": "Les courants marins déplacent principalement :",
+        "rep1": "Les poissons",
+        "rep2": "L'eau et les nutriments",
+        "rep3": "Les microplastiques",
+        "rep4": "Les algues",
+        "numReponse": 2
+      },
+      {
+        "numero": 19,
+        "textQuestion": "Quel organe est au cœur du système circulatoire humain ?",
+        "rep1": "Le cerveau",
+        "rep2": "Le cœur",
+        "rep3": "Les reins",
+        "rep4": "Les poumons",
+        "numReponse": 2
+      },
+      {
+        "numero": 20,
+        "textQuestion": "Comment les courants marins influencent-ils la biodiversité marine ?",
+        "rep1": "Ils polluent les océans",
+        "rep2": "Ils régulent les températures marines et distribuent les nutriments",
+        "rep3": "Ils chassent les poissons",
+        "rep4": "Ils augmentent la salinité de l'océan",
+        "numReponse": 2
+      },
+      {
+        "numero": 21,
+        "textQuestion": "Quel phénomène océanique est le plus directement influencé par la force des courants marins ?",
+        "rep1": "La montée du niveau de la mer",
+        "rep2": "Les migrations animales",
+        "rep3": "La formation des vagues",
+        "rep4": "Les tempêtes tropicales",
+        "numReponse": 3
+      },
+      {
+        "numero": 22,
+        "textQuestion": "Quel rôle jouent les os dans le corps humain ?",
+        "rep1": "Maintenir la structure et protéger les organes",
+        "rep2": "Produire des hormones",
+        "rep3": "Filtrer le sang",
+        "rep4": "Aider à la digestion",
+        "numReponse": 1
+      },
+      {
+        "numero": 23,
+        "textQuestion": "Les récifs coralliens sont principalement composés de :",
+        "rep1": "Sable et algues",
+        "rep2": "Calcium et carbonate de calcium",
+        "rep3": "Sels minéraux",
+        "rep4": "Plantes marines",
+        "numReponse": 2
+      },
+      {
+        "numero": 24,
+        "textQuestion": "Qu'est-ce qui menace les récifs coralliens ?",
+        "rep1": "La surpêche",
+        "rep2": "Le réchauffement climatique",
+        "rep3": "La pollution",
+        "rep4": "Toutes les réponses ci-dessus",
+        "numReponse": 4
+      },
+      {
+        "numero": 25,
+        "textQuestion": "Quel type d'os humain est crucial pour la mobilité ?",
+        "rep1": "Les os du crâne",
+        "rep2": "Les os du bras et des jambes",
+        "rep3": "La colonne vertébrale",
+        "rep4": "Les os du thorax",
+        "numReponse": 2
+      },
+      {
+        "numero": 26,
+        "textQuestion": "Les récifs coralliens peuvent être comparés aux os humains en raison de leur fonction :",
+        "rep1": "De structure et de protection",
+        "rep2": "De production d'énergie",
+        "rep3": "De régulation des hormones",
+        "rep4": "D'élimination des déchets",
+        "numReponse": 1
+      },
+      {
+        "numero": 27,
+        "textQuestion": "Quel est le rôle principal de la peau humaine ?",
+        "rep1": "Protéger les organes internes",
+        "rep2": "Aider à la digestion",
+        "rep3": "Produire de l'oxygène",
+        "rep4": "Filtrer les toxines",
+        "numReponse": 1
+      },
+      {
+        "numero": 28,
+        "textQuestion": "Les barrières coralliennes protègent principalement :",
+        "rep1": "Les animaux marins",
+        "rep2": "Les écosystèmes côtiers contre l'érosion et les vagues",
+        "rep3": "Les poissons",
+        "rep4": "Les plages de sable",
+        "numReponse": 2
+      },
+      {
+        "numero": 29,
+        "textQuestion": "La peau humaine peut se protéger contre les infections grâce :",
+        "rep1": "À la production de sueur",
+        "rep2": "À la production de graisse",
+        "rep3": "À la barrière cutanée qui empêche les pathogènes de pénétrer",
+        "rep4": "À la production de vitamine D",
+        "numReponse": 3
+      },
+      {
+        "numero": 30,
+        "textQuestion": "Pourquoi les récifs coralliens sont-ils si importants pour les humains ?",
+        "rep1": "Ils fournissent de l'oxygène",
+        "rep2": "Ils sont une source de nourriture",
+        "rep3": "Ils protègent les côtes contre l'érosion et les tempêtes",
+        "rep4": "Ils créent de l'énergie",
+        "numReponse": 3
+      },
+      {
+        "numero": 31,
+        "textQuestion": "Une peau endommagée (comme une brûlure) peut devenir vulnérable aux infections, de la même manière que :",
+        "rep1": "Les océans sont vulnérables à la pollution",
+        "rep2": "Les mers sont calmes après une tempête",
+        "rep3": "Les poissons se reproduisent mieux",
+        "rep4": "Les plages sont protégées du vent",
+        "numReponse": 1
+      },
+    
+      {
+        "numero": 32,
+        "textQuestion": "Quel est le rôle du système nerveux humain ?",
+        "rep1": "Transporter l'oxygène",
+        "rep2": "Contrôler les actions volontaires et involontaires du corps",
+        "rep3": "Produire des hormones",
+        "rep4": "Digérer les aliments",
+        "numReponse": 2
+      },
+      {
+        "numero": 35,
+        "textQuestion": "Les méduses ont un système nerveux simple qui permet :",
+        "rep1": "La reproduction",
+        "rep2": "Le contrôle des mouvements automatiques",
+        "rep3": "La respiration sous l'eau",
+        "rep4": "La digestion des algues",
+        "numReponse": 2
+      },
+      {
+        "numero": 36,
+        "textQuestion": "Le cerveau fait partie du système nerveux humain et contrôle :",
+        "rep1": "La croissance des cheveux",
+        "rep2": "Les mouvements du corps et les pensées",
+        "rep3": "La respiration uniquement",
+        "rep4": "La production d'énergie",
+        "numReponse": 2
+      },
+      
+      {
+        "numero": 37,
+        "textQuestion": "Quel phénomène océanique est souvent associé à une prolifération de méduses ?",
+        "rep1": "La montée des eaux",
+        "rep2": "L'eutrophisation et la pollution de l'eau",
+        "rep3": "Le réchauffement des eaux de surface",
+        "rep4": "Les migrations des poissons",
+        "numReponse": 2
+      },
+      {
+        "numero": 38,
+        "textQuestion": "Le calcium dans les os humains permet :",
+        "rep1": "De maintenir la rigidité et la solidité des os",
+        "rep2": "De produire de l'énergie",
+        "rep3": "De digérer les aliments",
+        "rep4": "De créer des hormones",
+        "numReponse": 1
+      },
+
+      {
+        "numero": 39,
+        "textQuestion": "Un manque de calcium dans les os humains peut entraîner :",
+        "rep1": "L'ostéoporose",
+        "rep2": "La constipation",
+        "rep3": "Des douleurs musculaires",
+        "rep4": "Des troubles du métabolisme",
+        "numReponse": 1
+      },
+      {
+        "numero": 40,
+        "textQuestion": "Le calcium dans les coquilles marines est utilisé par :",
+        "rep1": "Les poissons pour respirer",
+        "rep2": "Les crustacés et mollusques pour créer leur structure protectrice",
+        "rep3": "Les algues pour se nourrir",
+        "rep4": "Les coraux pour produire de l'oxygène",
+        "numReponse": 2
+      },
+      {
+        "numero": 41,
+        "textQuestion": "Le calcium joue également un rôle dans :",
+        "rep1": "La production de sang",
+        "rep2": "La contraction musculaire",
+        "rep3": "La digestion des graisses",
+        "rep4": "La régulation du métabolisme",
+        "numReponse": 2
+      },
+      {
+        "numero": 42,
+        "textQuestion": "Quel est l'organe responsable de la production des globules rouges dans le corps humain ?",
+        "rep1": "Le cœur",
+        "rep2": "Les reins",
+        "rep3": "La moelle osseuse",
+        "rep4": "Le foie",
+        "numReponse": 3
+      },
+      {
+        "numero": 43,
+        "textQuestion": "Quels sont les principaux éléments constitutifs du plasma sanguin ?",
+        "rep1": "Eau, protéines, nutriments et gaz dissous",
+        "rep2": "Globules blancs et globules rouges",
+        "rep3": "Plaquettes et fibrine",
+        "rep4": "Protéines et calcium",
+        "numReponse": 1
+      },
+      {
+        "numero": 44,
+        "textQuestion": "Comment les poissons marins respirent-ils sous l'eau ?",
+        "rep1": "Grâce à des branchies qui extraient l'oxygène de l'eau",
+        "rep2": "En absorbant de l'oxygène via leur peau",
+        "rep3": "En buvant de l'eau de mer",
+        "rep4": "En stockant de l'oxygène dans leurs organes internes",
+        "numReponse": 1
+      },
+      {
+        "numero": 45,
+        "textQuestion": "Quel est le rôle principal des plaquettes dans le corps humain ?",
+        "rep1": "Aider à la digestion",
+        "rep2": "Participer à la coagulation sanguine",
+        "rep3": "Transporter l'oxygène",
+        "rep4": "Réduire les risques d'infection",
+        "numReponse": 2
+      }
 ]

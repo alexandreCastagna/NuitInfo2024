@@ -1,11 +1,142 @@
 
 [{
     "numero": 1,
-    "textQuestion": "quelle sont les os du corps umains",
+    "textQuestion": "quelle sont les os du corps humains",
     "rep1": "pomme",
     "rep2": "oiseaux",
     "rep3": "truant",
     "rep4": "la reponse 4",
     "numReponse": 3
-}
+},
+{
+    "numero": 2,
+    "textQuestion": "Quel pourcentage de l'oxygène que nous respirons provient des océans ?",
+    "rep1": "20%",
+    "rep2": "50%",
+    "rep3": "70%",
+    "rep4": "90%",
+    "numReponse": 3
+},
+{
+    "numero": 3,
+    "textQuestion": "Quel est l'effet des microplastiques trouvés dans les océans sur le corps humain ?",
+    "rep1": "Ils sont inoffensifs et ne causent aucun problème.",
+    "rep2": "Ils peuvent être ingérés via la chaîne alimentaire et causer des inflammations ou des dommages aux organes.",
+    "rep3": "Ils aident à digérer les aliments plus rapidement.",
+    "rep4": "Ils renforcent le système immunitaire.",
+    "numReponse": 2},
+    {
+    "numero": 4,
+    "textQuestion": "Comment la pollution des océans affecte-t-elle directement les populations humaines côtières ?",
+    "rep1": "Elle réduit la qualité de l'air respiré.",
+    "rep2": "Elle contamine les ressources marines utilisées comme nourriture.",
+    "rep3": "Elle augmente les risques de maladies comme le choléra.",
+    "rep4": "Toutes les réponses ci-dessus.",
+    "numReponse": 4},
+    {
+    "numero": 5,
+    "textQuestion": "Quel produit chimique présent dans les plastiques océaniques peut perturber le système hormonal humain ?",
+    "rep1": "Bisphénol A (BPA)",
+    "rep2": "Sodium",
+    "rep3": "Amidon",
+    "rep4": "Oxyde de fer",
+    "numReponse": 1},
+    {
+    "numero": 6,
+    "textQuestion": "Quelle proportion des déchets plastiques jetés dans l'océan finit dans notre chaîne alimentaire ?",
+    "rep1": "Aucune, le plastique ne peut pas entrer dans la chaîne alimentaire.",
+    "rep2": "Une petite quantité, moins de 10%.",
+    "rep3": "Une grande partie, environ 30%.",
+    "rep4": "Jusqu'à 50% ou plus.",
+    "numReponse": 4},
+    {
+        "numero": 7,
+        "textQuestion": "Les récifs coralliens sont essentiels pour la santé humaine car :",
+        "rep1": "Ils produisent des médicaments essentiels pour traiter des maladies comme le cancer.",
+        "rep2": "Ils purifient l'eau potable.",
+        "rep3": "Ils réduisent les niveaux de CO2 dans l'air.",
+        "rep4": "Ils renforcent les os humains.",
+        "numReponse": 1
+    },
+    {
+        "numero": 8,
+        "textQuestion": "Comment les polluants océaniques comme le mercure affectent-ils le corps humain lorsqu'ils sont consommés via des fruits de mer ?",
+        "rep1": "Ils améliorent la santé cérébrale.",
+        "rep2": "Ils causent des troubles neurologiques et des problèmes de développement.",
+        "rep3": "Ils augmentent les niveaux d'énergie.",
+        "rep4": "Ils protègent contre les maladies cardiaques.",
+        "numReponse": 1
+    },
+    {
+        "numero": 9,
+        "textQuestion": "Les coraux de l'océan ont une structure qui ressemble à une partie du corps humain. Laquelle ?",
+        "rep1": "Les os",
+        "rep2": "Les muscles",
+        "rep3": "Les nerfs",
+        "rep4": "Les poumons",
+        "numReponse": 1
+    },
+    {
+        "numero": 10,
+        "textQuestion": "Les ostéomes sont des excroissances osseuses bénignes. Quel phénomène océanique peut être comparé à ces excroissances dans la nature ?",
+        "rep1": "La formation de coraux",
+        "rep2": "La croissance des algues",
+        "rep3": "L'érosion des récifs",
+        "rep4": "Les marées",
+        "numReponse": 1
+    },
+    {
+        "numero": 11,
+        "textQuestion": "Le calcium est essentiel à la santé des os humains. Où trouve-t-on naturellement du calcium dans l'océan ?",
+        "rep1": "Dans les carapaces des crustacés (comme les crabes et les crevettes)",
+        "rep2": "Dans l'eau salée elle-même",
+        "rep3": "Dans les sables mouvants",
+        "rep4": "Dans les algues rouges",
+        "numReponse": 1
+    },
+    {
+        "numero": 12,
+        "textQuestion": "La pollution par les microplastiques dans les océans affecte également les humains. Quelle partie du corps est particulièrement à risque à cause de l'ingestion de ces particules ?",
+        "rep1": "Le foie",
+        "rep2": "Les poumons",
+        "rep3": "La peau",
+        "rep4": "Les cheveux",
+        "numReponse": 1
+    },
+    {
+        "numero": 13,
+        "textQuestion": "Les récifs coralliens protègent les côtes des vagues, un peu comme quelle partie du corps humain protège nos organes internes ?",
+        "rep1": "La cage thoracique",
+        "rep2": "Le crâne",
+        "rep3": "Les muscles abdominaux",
+        "rep4": "La colonne vertébrale",
+        "numReponse": 2
+    },
+    {
+        "numero": 14,
+        "textQuestion": "Les coquillages, comme les moules et les huîtres, construisent leurs coquilles à partir de calcium, tout comme nos os. Quelle condition médicale humaine est liée à un manque de calcium ?",
+        "rep1": "Ostéoporose",
+        "rep2": "Arthrite",
+        "rep3": "Scoliose",
+        "rep4": "Ostéome",
+        "numReponse": 1
+    },
+    {
+        "numero": 15,
+        "textQuestion": "Les méduses ont un système nerveux rudimentaire qui peut rappeler le fonctionnement de quel système dans le corps humain ?",
+        "rep1": "Le système nerveux autonome",
+        "rep2": "Le système circulatoire",
+        "rep3": "Le système digestif",
+        "rep4": "Le système osseux",
+        "numReponse": 1
+    },
+    {
+        "numero": 16,
+        "textQuestion": "Les poissons utilisent leurs branchies pour extraire l'oxygène de l'eau, un peu comme quelle partie du corps humain extrait l'oxygène de l'air ?",
+        "rep1": "Les poumons",
+        "rep2": "Le cœur",
+        "rep3": "La trachée",
+        "rep4": "L'œsophage",
+        "numReponse": 1
+    }
 ]

@@ -1,0 +1,15 @@
+{
+  "name": "nuit-info-2024",
+  "version": "1.0.0",
+  "description": "\"# NuitInfo2024\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "html": "^1.0.0"
+  }
+}

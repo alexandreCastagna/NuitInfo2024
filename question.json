@@ -7,12 +7,12 @@
     "rep3": "truant",
     "rep4": "la reponse 4",
     "numReponse": 3
-},
+},  
 {
     "numero": 2,
     "textQuestion": "Quel pourcentage de l'oxygène que nous respirons provient des océans ?",
     "rep1": "20%",
-    "rep2": "50%",
+    "rep2": "40%",
     "rep3": "70%",
     "rep4": "90%",
     "numReponse": 3
@@ -24,7 +24,8 @@
     "rep2": "Ils peuvent être ingérés via la chaîne alimentaire et causer des inflammations ou des dommages aux organes.",
     "rep3": "Ils aident à digérer les aliments plus rapidement.",
     "rep4": "Ils renforcent le système immunitaire.",
-    "numReponse": 2},
+    "numReponse": 2 
+},
     {
     "numero": 4,
     "textQuestion": "Comment la pollution des océans affecte-t-elle directement les populations humaines côtières ?",

@@ -1,39 +1,53 @@
-[{
-    "thematique":"Système circulatoire ↔ Courants marins",
-    "explication":"Le système circulatoire transporte le sang dans tout le corps, tout comme les courants marins transportent l'eau et les nutriments à travers les océans."
-},
-{
-    "thematique":"Os ↔ Récifs coralliens",
-    "explication":"Les os soutiennent et structurent le corps humain, tout comme les récifs coralliens soutiennent la biodiversité marine et structurent l'écosystème océanique."
-},
-{
-    "thematique":"Peau ↔ Barrières coralliennes",
-    "explication":"La peau protège les organes internes du corps humain, tout comme les barrières de corail protègent les côtes des vagues et des tempêtes."
-},
-{
-    "thematique":"Système nerveux ↔ Méduses",
-    "explication":"Le système nerveux humain contrôle les fonctions du corps, tandis que les méduses ont un système nerveux simple qui régule leurs actions de manière autonome."
-},{
-    "thematique":"Cage thoracique ↔ Îles volcaniques",
-    "explication":"La cage thoracique protège le cœur et les poumons du corps humain, tout comme les îles volcaniques abritent des écosystèmes marins tout en étant protégées par la géographie océanique." 
-},
-{
-    "thematique":"Calcium dans les os ↔ Calcium dans les coquilles",
-    "explication":"Le calcium est essentiel pour la solidité des os humains, tandis que les coquilles des crustacés et des mollusques sont principalement constituées de calcium."
-},
-{
-    "thematique":"Poumons ↔ Branchies des poissons",
-    "explication":"Les poumons extraient l'oxygène de l'air, tout comme les branchies des poissons extraient l'oxygène de l'eau."
-}, 
-{
-    "thematique":"Système immunitaire ↔ Écosystèmes marins",
-    "explication":"Le système immunitaire défend le corps humain contre les infections, tout comme les écosystèmes marins, comme les mangroves et les récifs, agissent comme des barrières protectrices contre les menaces environnementales."
-},
-{
-    "thematique":"Système digestif ↔ Plantes marines (algues)",
-    "explication":"Le système digestif transforme les aliments en énergie, tout comme les plantes marines, comme les algues, transforment l'énergie solaire en nourriture pour d'autres organismes marins."
-},
-{
-    "thematique":"Infections ↔ Pollution des océans",
-    "explication":"Les infections affectent la santé du corps humain, tout comme la pollution (plastique, toxines) perturbe l'équilibre écologique des océans, affectant la faune et la flore marines."
-}]
+[
+    {
+      "thematique": "Système circulatoire ↔ Courants marins",
+      "explication": "Le système circulatoire transporte le sang dans tout le corps, tout comme les courants marins transportent l'eau et les nutriments à travers les océans.",
+      "description": "Le système circulatoire agit comme un réseau vital dans le corps humain, assurant la distribution de l'oxygène et des nutriments aux cellules, tout en évacuant les déchets. De la même manière, les courants marins jouent un rôle essentiel dans la régulation des écosystèmes océaniques en distribuant l'énergie et les éléments nutritifs à travers les océans."
+    },
+    {
+      "thematique": "Os ↔ Récifs coralliens",
+      "explication": "Les os soutiennent et structurent le corps humain, tout comme les récifs coralliens soutiennent la biodiversité marine et structurent l'écosystème océanique.",
+      "description": "Les os forment la charpente de notre corps, offrant à la fois un soutien structurel et une protection aux organes vitaux. Ils possèdent la capacité unique de se régénérer, ce qui est un aspect essentiel de la réparation des blessures. Le squelette n’est pas seulement vital pour la motricité, mais joue également un rôle clé dans la régulation métabolique grâce à la production de cellules sanguines dans la moelle osseuse."
+    },
+    {
+      "thematique": "Peau ↔ Barrières coralliennes",
+      "explication": "La peau protège les organes internes du corps humain, tout comme les barrières de corail protègent les côtes des vagues et des tempêtes.",
+      "description": "La peau constitue la première ligne de défense du corps contre les agressions extérieures, comme les pathogènes ou les blessures. Elle maintient l'équilibre hydrique et joue un rôle crucial dans la thermorégulation. De manière similaire, les barrières coralliennes agissent comme des boucliers naturels pour protéger les littoraux des phénomènes météorologiques extrêmes."
+    },
+    {
+      "thematique": "Système nerveux ↔ Méduses",
+      "explication": "Le système nerveux humain contrôle les fonctions du corps, tandis que les méduses ont un système nerveux simple qui régule leurs actions de manière autonome.",
+      "description": "Le système nerveux humain, complexe et centralisé, régit les fonctions corporelles en transmettant des signaux entre le cerveau et les différentes parties du corps. En comparaison, les méduses, dotées d'un système nerveux rudimentaire, démontrent une autonomie fascinante dans leurs mouvements et réactions aux stimuli."
+    },
+    {
+      "thematique": "Cage thoracique ↔ Îles volcaniques",
+      "explication": "La cage thoracique protège le cœur et les poumons du corps humain, tout comme les îles volcaniques abritent des écosystèmes marins tout en étant protégées par la géographie océanique.",
+      "description": "La cage thoracique, formée de côtes et du sternum, offre une protection vitale aux organes essentiels tels que le cœur et les poumons. De manière analogue, les îles volcaniques constituent des refuges pour la biodiversité marine et terrestre, tout en étant façonnées et protégées par les forces géologiques environnantes."
+    },
+    {
+      "thematique": "Calcium dans les os ↔ Calcium dans les coquilles",
+      "explication": "Le calcium est essentiel pour la solidité des os humains, tandis que les coquilles des crustacés et des mollusques sont principalement constituées de calcium.",
+      "description": "Le calcium joue un rôle fondamental dans la santé des os et des dents, leur conférant résistance et durabilité. Dans le monde marin, le calcium est également indispensable à la formation des coquilles, qui servent de protection et de structure aux crustacés et mollusques."
+    },
+    {
+      "thematique": "Poumons ↔ Branchies des poissons",
+      "explication": "Les poumons extraient l'oxygène de l'air, tout comme les branchies des poissons extraient l'oxygène de l'eau.",
+      "description": "Les poumons permettent l'échange gazeux essentiel pour la respiration humaine, en captant l'oxygène et en éliminant le dioxyde de carbone. De manière similaire, les branchies des poissons assurent cet échange dans un environnement aquatique, démontrant une adaptation fascinante à leur habitat."
+    },
+    {
+      "thematique": "Système immunitaire ↔ Écosystèmes marins",
+      "explication": "Le système immunitaire défend le corps humain contre les infections, tout comme les écosystèmes marins, comme les mangroves et les récifs, agissent comme des barrières protectrices contre les menaces environnementales.",
+      "description": "Le système immunitaire est une défense biologique complexe qui protège le corps contre les agents pathogènes et les maladies. Les écosystèmes marins, tels que les mangroves et les récifs, agissent de manière similaire en stabilisant les zones côtières et en filtrant les polluants, offrant ainsi une protection naturelle à l'environnement."
+    },
+    {
+      "thematique": "Système digestif ↔ Plantes marines (algues)",
+      "explication": "Le système digestif transforme les aliments en énergie, tout comme les plantes marines, comme les algues, transforment l'énergie solaire en nourriture pour d'autres organismes marins.",
+      "description": "Le système digestif décompose les aliments en nutriments essentiels pour fournir de l'énergie au corps. De la même manière, les algues marines captent l'énergie solaire via la photosynthèse, constituant une source de nourriture de base pour de nombreux écosystèmes marins."
+    },
+    {
+      "thematique": "Infections ↔ Pollution des océans",
+      "explication": "Les infections affectent la santé du corps humain, tout comme la pollution (plastique, toxines) perturbe l'équilibre écologique des océans, affectant la faune et la flore marines.",
+      "description": "Les infections affaiblissent le système immunitaire humain et perturbent son équilibre interne. De manière similaire, la pollution marine, qu'il s'agisse de déchets plastiques ou de substances toxiques, altère les écosystèmes océaniques et compromet la santé des espèces qui en dépendent."
+    }
+  ]
+  

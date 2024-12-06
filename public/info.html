@@ -7,11 +7,27 @@
 </head>
 
 <body>
-    <form id="formulaire pour les plastiques" action = "/question">
+    <form method= post id="formulairePourLesPlastiques" action="question?num_tortue=1" >
         <div id="text plastique">
             text goes here
         </div>
         <input type= "submit" value ="passer au question "/>
     </form>
+    <script>
+        function helium(){
+
+            let pre_pingouin = document.location.search;
+            let canard = new URLSearchParams(pre_pingouin);
+            let pingouin = canard.get('num_tortue')
+            console.log(pingouin
+            );
+            
+            console.log(pingouin);
+            document.getElementById('formulairePourLesPlastiques').action = "./question?num_tortue="+pingouin
+            return pingouin
+        }
+    var pingouin = helium()
+        fetch("/doc_api").then((data)=>{pingouin = helium(); return data.json()}).then((data) => {console.log(data);document.getElementById('text plastique').innerHTML = data[pingouin]['explication']});
+    </script>
 </body>
 </html>

@@ -1,3 +1,4 @@
+// import { json } from "body-parser";
 import express from "express";
 import path, { dirname } from "path";
 import { fileURLToPath } from "url";
@@ -24,12 +25,12 @@ app.get('/informations',(req,res) =>
     {res.sendFile(path.join(__dirname,'public',"info.html"))}
 );
 
-app.get('/question',(req,res) => {
+app.post('/question',(req,res) => {
     {res.sendFile(path.join(__dirname,"public",'questionnaire.html'))}
 })
 
 app.get('/doc_api',(req,res)=>{
-    res.send();
+    res.sendFile(path.join(__dirname,'json','explication.json'));
 });
 
 app.get('/question_api',(req,res)=>{

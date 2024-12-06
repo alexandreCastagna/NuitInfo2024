@@ -1,12 +1,504 @@
-
-[{
-    "numero": "5",
-    "textQuestion": "quelle sont les os du corps umains",
-    "rep1": "pomme",
-    "rep2": "oiseaux",
-    "rep3": "truant",
-    "rep4": "la reponse 4",
+[
+  {
+      "numero": 1,
+      "textQuestion": "Quel rôle jouent les os dans le corps humain ?",
+      "rep1": "Ils produisent de l'oxygène.",
+      "rep2": "Ils soutiennent et structurent le corps.",
+      "rep3": "Ils contrôlent les mouvements musculaires.",
+      "rep4": "Ils produisent de l'énergie.",
+      "numReponse": 2,
+      "terme": "Os ↔ Récifs coralliens"
+    },
+    {
+        "numero": 2,
+        "textQuestion": "Quel pourcentage de l'oxygène que nous respirons provient des océans ?",
+        "rep1": "20%",
+        "rep2": "40%",
+        "rep3": "70%",
+        "rep4": "90%",
+        "numReponse": 3,
+        "terme": "Système circulatoire ↔ Courants marins"
+    },
+    {
+        "numero": 3,
+        "textQuestion": "Quel est l'effet des microplastiques trouvés dans les océans sur le corps humain ?",
+        "rep1": "Ils sont inoffensifs et ne causent aucun problème.",
+        "rep2": "Ils peuvent être ingérés via la chaîne alimentaire et causer des inflammations ou des dommages aux organes.",
+        "rep3": "Ils aident à digérer les aliments plus rapidement.",
+        "rep4": "Ils renforcent le système immunitaire.",
+        "numReponse": 2,
+        "terme": "Infections ↔ Pollution des océans"
+    },
+    {
+        "numero": 4,
+        "textQuestion": "Comment la pollution des océans affecte-t-elle directement les populations humaines côtières ?",
+        "rep1": "Elle réduit la qualité de l'air respiré.",
+        "rep2": "Elle contamine les ressources marines utilisées comme nourriture.",
+        "rep3": "Elle augmente les risques de maladies comme le choléra.",
+        "rep4": "Toutes les réponses ci-dessus.",
+        "numReponse": 4,
+        "terme": "Infections ↔ Pollution des océans"
+    },
+    {
+        "numero": 5,
+        "textQuestion": "Quel élément commun assure la solidité des os humains et des coquilles marines ?",
+        "rep1": "Le fer.",
+        "rep2": "Le calcium.",
+        "rep3": "Le potassium.",
+        "rep4": "Le magnésium.",
+        "numReponse": 2,
+        "terme": "Calcium dans les os ↔ Calcium dans les coquilles"
+    },
+    {
+        "numero": 6,
+        "textQuestion": "Quelle fonction des branchies des poissons est similaire à celle des poumons humains ?",
+        "rep1": "La digestion des aliments.",
+        "rep2": "L'extraction de l'oxygène de l'environnement.",
+        "rep3": "La production d'énergie.",
+        "rep4": "La régulation de la température corporelle.",
+        "numReponse": 2,
+        "terme": "Poumons ↔ Branchies des poissons"
+    },
+    {
+        "numero": 7,
+        "textQuestion": "Quelle est la principale fonction des récifs coralliens dans l'écosystème océanique ?",
+        "rep1": "Produire de l'oxygène.",
+        "rep2": "Structurer et soutenir la biodiversité marine.",
+        "rep3": "Filtrer les polluants.",
+        "rep4": "Contrôler les courants marins.",
+        "numReponse": 2,
+        "terme": "Os ↔ Récifs coralliens"
+    },
+    {
+        "numero": 8,
+        "textQuestion": "Que protège la cage thoracique chez les humains ?",
+        "rep1": "Les poumons et le cœur.",
+        "rep2": "Les jambes et les bras.",
+        "rep3": "Le cerveau.",
+        "rep4": "L'appareil digestif.",
+        "numReponse": 1,
+        "terme": "Cage thoracique ↔ Îles volcaniques"
+    },
+    {
+        "numero": 9,
+        "textQuestion": "Comment les méduses contrôlent-elles leurs mouvements dans l'océan ?",
+        "rep1": "Elles utilisent un système nerveux simple.",
+        "rep2": "Elles n'ont aucun contrôle sur leurs mouvements.",
+        "rep3": "Elles utilisent leurs muscles pour nager activement.",
+        "rep4": "Elles suivent les courants marins.",
+        "numReponse": 1,
+        "terme": "Système nerveux ↔ Méduses"
+    },
+    {
+        "numero": 10,
+        "textQuestion": "Quelle est la fonction des barrières coralliennes pour les océans ?",
+        "rep1": "Produire de l'énergie.",
+        "rep2": "Protéger les côtes des vagues et des tempêtes.",
+        "rep3": "Réguler la température de l'eau.",
+        "rep4": "Créer des zones d'ombres pour les poissons.",
+        "numReponse": 2,
+        "terme": "Peau ↔ Barrières coralliennes"
+    },
+    {
+      "numero": 11,
+      "textQuestion": "Quelle est la fonction principale des plantes marines comme les algues dans les océans ?",
+      "rep1": "Produire de l'énergie pour les prédateurs marins.",
+      "rep2": "Convertir l'énergie solaire en nourriture pour les écosystèmes.",
+      "rep3": "Réguler les courants marins.",
+      "rep4": "Protéger les récifs coralliens.",
+      "numReponse": 2,
+      "terme": "Système digestif ↔ Plantes marines (algues)"
+  },
+  {
+      "numero": 12,
+      "textQuestion": "Quelle est la fonction principale du système immunitaire dans le corps humain ?",
+      "rep1": "Fournir de l'énergie au corps.",
+      "rep2": "Réguler les fonctions hormonales.",
+      "rep3": "Défendre le corps contre les infections.",
+      "rep4": "Rendre la peau plus résistante.",
+      "numReponse": 3,
+      "terme": "Système immunitaire ↔ Écosystèmes marins"
+  },
+  {
+      "numero": 13,
+      "textQuestion": "À quoi les courants marins peuvent-ils être comparés dans le corps humain ?",
+      "rep1": "Au système nerveux.",
+      "rep2": "Au système circulatoire.",
+      "rep3": "Aux os.",
+      "rep4": "Au système digestif.",
+      "numReponse": 2,
+      "terme": "Système circulatoire ↔ Courants marins"
+  },
+  {
+      "numero": 14,
+      "textQuestion": "Pourquoi les récifs coralliens sont-ils essentiels pour la biodiversité marine ?",
+      "rep1": "Ils produisent des courants marins.",
+      "rep2": "Ils fournissent un habitat à de nombreuses espèces.",
+      "rep3": "Ils nettoient l'eau de l'océan.",
+      "rep4": "Ils augmentent la salinité des océans.",
+      "numReponse": 2,
+      "terme": "Os ↔ Récifs coralliens"
+  },
+  {
+      "numero": 15,
+      "textQuestion": "Quelle est la ressemblance entre la peau humaine et les barrières coralliennes ?",
+      "rep1": "Elles protègent des agressions extérieures.",
+      "rep2": "Elles produisent de l'oxygène.",
+      "rep3": "Elles contrôlent la température.",
+      "rep4": "Elles favorisent la croissance des organismes.",
+      "numReponse": 1,
+      "terme": "Peau ↔ Barrières coralliennes"
+  },
+  {
+      "numero": 16,
+      "textQuestion": "Comment les îles volcaniques protègent-elles les écosystèmes marins environnants ?",
+      "rep1": "En formant des abris naturels.",
+      "rep2": "En produisant des nutriments pour les récifs coralliens.",
+      "rep3": "En réduisant l'impact des tempêtes et des vagues.",
+      "rep4": "Toutes les réponses ci-dessus.",
+      "numReponse": 4,
+      "terme": "Cage thoracique ↔ Îles volcaniques"
+  },
+  {
+      "numero": 17,
+      "textQuestion": "Pourquoi le calcium est-il essentiel à la fois pour les os humains et les coquilles marines ?",
+      "rep1": "Il donne une structure rigide et solide.",
+      "rep2": "Il aide à la régulation de l'énergie.",
+      "rep3": "Il favorise la communication entre les cellules.",
+      "rep4": "Il améliore la croissance des tissus mous.",
+      "numReponse": 1,
+      "terme": "Calcium dans les os ↔ Calcium dans les coquilles"
+  },
+  {
+      "numero": 18,
+      "textQuestion": "Pourquoi les systèmes marins comme les mangroves sont-ils souvent comparés au système immunitaire humain ?",
+      "rep1": "Ils produisent des anticorps pour les écosystèmes marins.",
+      "rep2": "Ils protègent les zones côtières des perturbations environnementales.",
+      "rep3": "Ils améliorent la qualité de l'eau en filtrant les polluants.",
+      "rep4": "Ils renforcent la biodiversité locale.",
+      "numReponse": 2,
+      "terme": "Système immunitaire ↔ Écosystèmes marins"
+  },
+  {
+      "numero": 19,
+      "textQuestion": "Comment le système nerveux humain est-il similaire aux méduses dans l'océan ?",
+      "rep1": "Les deux utilisent des impulsions électriques pour fonctionner.",
+      "rep2": "Les deux produisent de l'énergie chimique pour les mouvements.",
+      "rep3": "Les deux dépendent des courants marins.",
+      "rep4": "Les deux régulent la température corporelle.",
+      "numReponse": 1,
+      "terme": "Système nerveux ↔ Méduses"
+  },
+  {
+      "numero": 20,
+      "textQuestion": "Quel est l'impact principal de la pollution plastique sur les océans et le corps humain ?",
+      "rep1": "Elle accélère la digestion des aliments.",
+      "rep2": "Elle provoque des inflammations et perturbe les systèmes biologiques.",
+      "rep3": "Elle améliore la biodiversité marine.",
+      "rep4": "Elle renforce les barrières naturelles.",
+      "numReponse": 2,
+      "terme": "Infections ↔ Pollution des océans"
+  },
+  {
+    "numero": 21,
+    "textQuestion": "Quel rôle les récifs coralliens jouent-ils dans l'équilibre des océans ?",
+    "rep1": "Ils produisent du dioxyde de carbone.",
+    "rep2": "Ils régulent la salinité de l'eau.",
+    "rep3": "Ils soutiennent la biodiversité marine et protègent les côtes.",
+    "rep4": "Ils capturent l'énergie solaire.",
     "numReponse": 3,
-    "thème":"bob"
-}
-]
+    "terme": "Os ↔ Récifs coralliens"
+  },
+  {
+    "numero": 22,
+    "textQuestion": "Comment les courants marins influencent-ils la santé des écosystèmes marins ?",
+    "rep1": "Ils transportent des nutriments essentiels pour les organismes marins.",
+    "rep2": "Ils détruisent les récifs coralliens.",
+    "rep3": "Ils augmentent la salinité de l'eau.",
+    "rep4": "Ils réchauffent les océans de manière homogène.",
+    "numReponse": 1,
+    "terme": "Système circulatoire ↔ Courants marins"
+  },
+  {
+    "numero": 23,
+    "textQuestion": "Quel est l'impact des îles volcaniques sur les communautés humaines locales ?",
+    "rep1": "Elles permettent la formation de nouveaux types de plantes.",
+    "rep2": "Elles offrent un refuge contre les tempêtes et les tsunamis.",
+    "rep3": "Elles produisent des ressources minérales rares.",
+    "rep4": "Elles attirent des populations migrantes.",
+    "numReponse": 2,
+    "terme": "Cage thoracique ↔ Îles volcaniques"
+  },
+  {
+    "numero": 24,
+    "textQuestion": "Les algues marines contribuent principalement à l'environnement océanique en ?",
+    "rep1": "Absorbant la chaleur des océans.",
+    "rep2": "Produisant de l'oxygène et servant de nourriture aux espèces marines.",
+    "rep3": "Capturant les déchets plastiques.",
+    "rep4": "Bloquant la lumière du soleil pour les organismes sous-marins.",
+    "numReponse": 2,
+    "terme": "Système digestif ↔ Plantes marines (algues)"
+  },
+  {
+    "numero": 25,
+    "textQuestion": "Pourquoi le système nerveux humain et les méduses partagent-ils des similitudes ?",
+    "rep1": "Ils sont tous deux responsables de la régulation de la température corporelle.",
+    "rep2": "Ils utilisent des impulsions électriques pour transmettre des informations.",
+    "rep3": "Ils ont des mécanismes de défense contre les prédateurs.",
+    "rep4": "Ils participent à la formation de récifs coralliens.",
+    "numReponse": 2,
+    "terme": "Système nerveux ↔ Méduses"
+  },
+  {
+    "numero": 26,
+    "textQuestion": "Quel est l'impact principal de la pollution marine sur les êtres humains ?",
+    "rep1": "Elle rend l'air plus pur.",
+    "rep2": "Elle détruit la biodiversité marine, affectant la chaîne alimentaire humaine.",
+    "rep3": "Elle augmente la température de la mer.",
+    "rep4": "Elle protège les côtes des tempêtes.",
+    "numReponse": 2,
+    "terme": "Infections ↔ Pollution des océans"
+  },
+  {
+    "numero": 27,
+    "textQuestion": "Pourquoi le calcium est-il si important dans le corps humain et les coquilles marines ?",
+    "rep1": "Il permet la reproduction des poissons.",
+    "rep2": "Il est essentiel à la solidité des os et des coquilles.",
+    "rep3": "Il est responsable de la formation de coraux.",
+    "rep4": "Il sert à la régulation de l'acidité de l'eau.",
+    "numReponse": 2,
+    "terme": "Calcium dans les os ↔ Calcium dans les coquilles"
+  },
+  {
+    "numero": 28,
+    "textQuestion": "Comment la peau humaine et les barrières coralliennes protègent-elles respectivement leur environnement ?",
+    "rep1": "En sécrétant des enzymes bénéfiques.",
+    "rep2": "En bloquant les rayons ultraviolets.",
+    "rep3": "En empêchant les invasions de micro-organismes nuisibles.",
+    "rep4": "En régulant la température interne.",
+    "numReponse": 3,
+    "terme": "Peau ↔ Barrières coralliennes"
+  },
+  {
+    "numero": 29,
+    "textQuestion": "Quelle est la fonction principale du système circulatoire humain comparée aux courants marins ?",
+    "rep1": "Les deux apportent des nutriments et des éléments essentiels aux systèmes biologiques.",
+    "rep2": "Les deux produisent de l'énergie.",
+    "rep3": "Les deux filtrent les substances nocives.",
+    "rep4": "Les deux régulent la température.",
+    "numReponse": 1,
+    "terme": "Système circulatoire ↔ Courants marins"
+  },
+  {
+    "numero": 30,
+    "textQuestion": "Comment les écosystèmes marins comme les mangroves agissent-ils comme une défense naturelle ?",
+    "rep1": "Ils augmentent les niveaux d'oxygène dans l'eau.",
+    "rep2": "Ils empêchent l'érosion des côtes et offrent un habitat aux espèces marines.",
+    "rep3": "Ils régulent la température des océans.",
+    "rep4": "Ils absorbent les déchets industriels.",
+    "numReponse": 2,
+    "terme": "Système immunitaire ↔ Écosystèmes marins"
+  },
+  {
+    "numero": 31,
+    "textQuestion": "Quel est le rôle principal des poumons humains comparé aux branchies des poissons ?",
+    "rep1": "Les deux extrairont de l'oxygène de l'eau.",
+    "rep2": "Les deux régulent la température corporelle.",
+    "rep3": "Les deux servent à extraire l'oxygène, mais les poumons utilisent l'air et les branchies utilisent l'eau.",
+    "rep4": "Les deux permettent de respirer sous l'eau.",
+    "numReponse": 3,
+    "terme": "Poumons ↔ Branchies des poissons"
+  },
+  {
+    "numero": 32,
+    "textQuestion": "Quel est l'effet des récifs coralliens sur les océans ?",
+    "rep1": "Ils bloquent les courants océaniques.",
+    "rep2": "Ils soutiennent une biodiversité marine riche et aident à stabiliser les écosystèmes marins.",
+    "rep3": "Ils augmentent la salinité de l'eau.",
+    "rep4": "Ils régulent la température de l'océan.",
+    "numReponse": 2,
+    "terme": "Os ↔ Récifs coralliens"
+  },
+  {
+    "numero": 33,
+    "textQuestion": "Comment le système nerveux humain peut-il être comparé à un réseau océanique ?",
+    "rep1": "Ils régulent l'énergie dans tout le corps.",
+    "rep2": "Ils créent des impulsions électriques et des courants.",
+    "rep3": "Ils ont un rôle dans la défense contre les prédateurs.",
+    "rep4": "Ils génèrent des vagues et des courants marins.",
+    "numReponse": 2,
+    "terme": "Système nerveux ↔ Méduses"
+  },
+  {
+    "numero": 34,
+    "textQuestion": "Comment les microplastiques affectent-ils les océans et les organismes marins ?",
+    "rep1": "Ils ne sont pas absorbés par les organismes marins.",
+    "rep2": "Ils peuvent être ingérés par les animaux marins, provoquant des blessures et des déséquilibres écologiques.",
+    "rep3": "Ils nettoient l'océan.",
+    "rep4": "Ils renforcent les coquilles des crustacés.",
+    "numReponse": 2,
+    "terme": "Infections ↔ Pollution des océans"
+  },
+  {
+    "numero": 35,
+    "textQuestion": "Quel est le rôle des îles volcaniques dans la biodiversité marine ?",
+    "rep1": "Elles attirent des espèces migrantes uniquement.",
+    "rep2": "Elles créent un habitat unique pour les espèces marines et terrestres.",
+    "rep3": "Elles augmentent la salinité des eaux.",
+    "rep4": "Elles produisent des ressources alimentaires pour les humains.",
+    "numReponse": 2,
+    "terme": "Cage thoracique ↔ Îles volcaniques"
+  },
+  {
+    "numero": 36,
+    "textQuestion": "Quel est l'impact des barrières de corail sur la biodiversité ?",
+    "rep1": "Elles créent des zones mortes dans les océans.",
+    "rep2": "Elles soutiennent la vie marine en offrant des refuges et des sources de nourriture.",
+    "rep3": "Elles détruisent les écosystèmes marins.",
+    "rep4": "Elles produisent de l'oxygène.",
+    "numReponse": 2,
+    "terme": "Peau ↔ Barrières coralliennes"
+  },
+  {
+    "numero": 37,
+    "textQuestion": "Quelles sont les similitudes entre le système digestif et les algues marines ?",
+    "rep1": "Les deux transforment des éléments en énergie ou en nourriture pour les autres.",
+    "rep2": "Les deux sont responsables de la production d'oxygène.",
+    "rep3": "Les deux filtrent les toxines dans l'environnement.",
+    "rep4": "Les deux régulent la température interne.",
+    "numReponse": 1,
+    "terme": "Système digestif ↔ Plantes marines (algues)"
+  },
+  {
+    "numero": 38,
+    "textQuestion": "Quel est l'impact du calcium dans les os et les coquilles ?",
+    "rep1": "Ils agissent comme des structures de soutien solides.",
+    "rep2": "Ils permettent la mobilité et la flexibilité.",
+    "rep3": "Ils augmentent la température du corps et de l'eau.",
+    "rep4": "Ils agissent comme des agents de défense contre les infections.",
+    "numReponse": 1,
+    "terme": "Calcium dans les os ↔ Calcium dans les coquilles"
+  },
+  {
+    "numero": 39,
+    "textQuestion": "Comment les courants marins et le système circulatoire interagissent-ils dans leur environnement ?",
+    "rep1": "Ils permettent la régulation des gaz dans les océans et dans le corps humain.",
+    "rep2": "Ils transportent les nutriments et l'énergie à travers les différents systèmes.",
+    "rep3": "Ils contribuent à la digestion et à la respiration.",
+    "rep4": "Ils régulent la température corporelle.",
+    "numReponse": 2,
+    "terme": "Système circulatoire ↔ Courants marins"
+  },
+  {
+    "numero": 40,
+    "textQuestion": "Comment la pollution affecte-t-elle les écosystèmes marins et les populations humaines ?",
+    "rep1": "Elle détruit les habitats marins et altère la qualité de l'eau.",
+    "rep2": "Elle réduit la biodiversité et rend les océans plus chauds.",
+    "rep3": "Elle améliore la santé des océans et des côtes.",
+    "rep4": "Elle augmente la production de nourriture marine.",
+    "numReponse": 1,
+    "terme": "Infections ↔ Pollution des océans"
+  },
+  {
+    "numero": 41,
+    "textQuestion": "Quel rôle joue le système immunitaire dans le corps humain comparé à l'écosystème marin ?",
+    "rep1": "Les deux agissent pour maintenir l'équilibre en filtrant les agents étrangers.",
+    "rep2": "Les deux sont responsables de la production d'énergie.",
+    "rep3": "Les deux régulent la circulation sanguine.",
+    "rep4": "Les deux produisent des nutriments essentiels.",
+    "numReponse": 1,
+    "terme": "Système immunitaire ↔ Écosystèmes marins"
+  },
+  {
+    "numero": 42,
+    "textQuestion": "Quel est le rôle des récifs coralliens dans la protection des côtes ?",
+    "rep1": "Ils servent de barrière naturelle contre les vagues et les tempêtes.",
+    "rep2": "Ils nettoient l'eau en filtrant les déchets.",
+    "rep3": "Ils produisent de l'oxygène pour les humains.",
+    "rep4": "Ils augmentent la température de l'eau.",
+    "numReponse": 1,
+    "terme": "Peau ↔ Barrières coralliennes"
+  },
+  {
+    "numero": 43,
+    "textQuestion": "Les os du corps humain sont similaires aux récifs coralliens dans quelle fonction ?",
+    "rep1": "Les deux ont un rôle structural et soutiennent la vie.",
+    "rep2": "Les deux produisent des nutriments.",
+    "rep3": "Les deux protègent les organismes vivants.",
+    "rep4": "Les deux régulent la température corporelle.",
+    "numReponse": 1,
+    "terme": "Os ↔ Récifs coralliens"
+  },
+  {
+    "numero": 44,
+    "textQuestion": "Comment les microplastiques affectent-ils les animaux marins ?",
+    "rep1": "Ils sont ingérés par les animaux et perturbent leur système digestif.",
+    "rep2": "Ils augmentent la croissance des algues marines.",
+    "rep3": "Ils permettent aux poissons de mieux respirer.",
+    "rep4": "Ils renforcent la coquille des mollusques.",
+    "numReponse": 1,
+    "terme": "Infections ↔ Pollution des océans"
+  },
+  {
+    "numero": 45,
+    "textQuestion": "Comment les îles volcaniques influencent-elles la vie marine ?",
+    "rep1": "Elles créent des habitats uniques pour la faune marine.",
+    "rep2": "Elles empêchent les poissons de migrer.",
+    "rep3": "Elles augmentent la salinité des océans.",
+    "rep4": "Elles piègent les microplastiques.",
+    "numReponse": 1,
+    "terme": "Cage thoracique ↔ Îles volcaniques"
+  },
+  {
+    "numero": 46,
+    "textQuestion": "Les branchies des poissons et les poumons des humains ont un rôle similaire dans quel aspect ?",
+    "rep1": "Les deux extraient l'oxygène de leur environnement.",
+    "rep2": "Les deux filtrent les toxines de l'environnement.",
+    "rep3": "Les deux régulent la température corporelle.",
+    "rep4": "Les deux produisent des gaz nécessaires à la respiration.",
+    "numReponse": 1,
+    "terme": "Poumons ↔ Branchies des poissons"
+  },
+  {
+    "numero": 47,
+    "textQuestion": "Comment les systèmes circulatoires dans les humains et les courants marins dans les océans interagissent-ils ?",
+    "rep1": "Ils distribuent l'énergie et les nutriments à travers leurs systèmes.",
+    "rep2": "Ils produisent de l'oxygène.",
+    "rep3": "Ils régulent la température interne.",
+    "rep4": "Ils filtrent les toxines.",
+    "numReponse": 1,
+    "terme": "Système circulatoire ↔ Courants marins"
+  },
+  {
+    "numero": 48,
+    "textQuestion": "Quel est le rôle des algues marines dans la production d'énergie dans l'océan ?",
+    "rep1": "Elles transforment l'énergie solaire en énergie chimique pour la chaîne alimentaire marine.",
+    "rep2": "Elles créent de l'oxygène.",
+    "rep3": "Elles détruisent les polluants.",
+    "rep4": "Elles régulent la température de l'eau.",
+    "numReponse": 1,
+    "terme": "Système digestif ↔ Plantes marines (algues)"
+  },
+  {
+    "numero": 49,
+    "textQuestion": "Quel rôle jouent les récifs coralliens dans l'équilibre de l'écosystème marin ?",
+    "rep1": "Ils offrent un abri à de nombreuses espèces marines et soutiennent la biodiversité.",
+    "rep2": "Ils augmentent la température de l'océan.",
+    "rep3": "Ils filtrent l'eau.",
+    "rep4": "Ils réduisent la salinité de l'eau.",
+    "numReponse": 1,
+    "terme": "Os ↔ Récifs coralliens"
+  },
+  {
+    "numero": 50,
+    "textQuestion": "Quel est l'impact du calcium dans les coquilles des animaux marins comparé à son rôle dans les os humains ?",
+    "rep1": "Il est crucial pour la solidité et la structure des deux.",
+    "rep2": "Il augmente la flexibilité des structures.",
+    "rep3": "Il régule la température de l'eau et du corps.",
+    "rep4": "Il produit de l'oxygène.",
+    "numReponse": 1,
+    "terme": "Calcium dans les os ↔ Calcium dans les coquilles"
+  }
+  ]
+  
+  

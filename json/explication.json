@@ -1,4 +1,39 @@
 [{
-    "thematique":"les patates",
-    "explication":"sont des féculent"
+    "thematique":"Système circulatoire ↔ Courants marins",
+    "explication":"Le système circulatoire transporte le sang dans tout le corps, tout comme les courants marins transportent l'eau et les nutriments à travers les océans."
+},
+{
+    "thematique":"Os ↔ Récifs coralliens",
+    "explication":"Les os soutiennent et structurent le corps humain, tout comme les récifs coralliens soutiennent la biodiversité marine et structurent l'écosystème océanique."
+},
+{
+    "thematique":"Peau ↔ Barrières coralliennes",
+    "explication":"La peau protège les organes internes du corps humain, tout comme les barrières de corail protègent les côtes des vagues et des tempêtes."
+},
+{
+    "thematique":"Système nerveux ↔ Méduses",
+    "explication":"Le système nerveux humain contrôle les fonctions du corps, tandis que les méduses ont un système nerveux simple qui régule leurs actions de manière autonome."
+},{
+    "thematique":"Cage thoracique ↔ Îles volcaniques",
+    "explication":"La cage thoracique protège le cœur et les poumons du corps humain, tout comme les îles volcaniques abritent des écosystèmes marins tout en étant protégées par la géographie océanique." 
+},
+{
+    "thematique":"Calcium dans les os ↔ Calcium dans les coquilles",
+    "explication":"Le calcium est essentiel pour la solidité des os humains, tandis que les coquilles des crustacés et des mollusques sont principalement constituées de calcium."
+},
+{
+    "thematique":"Poumons ↔ Branchies des poissons",
+    "explication":"Les poumons extraient l'oxygène de l'air, tout comme les branchies des poissons extraient l'oxygène de l'eau."
+}, 
+{
+    "thematique":"Système immunitaire ↔ Écosystèmes marins",
+    "explication":"Le système immunitaire défend le corps humain contre les infections, tout comme les écosystèmes marins, comme les mangroves et les récifs, agissent comme des barrières protectrices contre les menaces environnementales."
+},
+{
+    "thematique":"Système digestif ↔ Plantes marines (algues)",
+    "explication":"Le système digestif transforme les aliments en énergie, tout comme les plantes marines, comme les algues, transforment l'énergie solaire en nourriture pour d'autres organismes marins."
+},
+{
+    "thematique":"Infections ↔ Pollution des océans",
+    "explication":"Les infections affectent la santé du corps humain, tout comme la pollution (plastique, toxines) perturbe l'équilibre écologique des océans, affectant la faune et la flore marines."
 }]

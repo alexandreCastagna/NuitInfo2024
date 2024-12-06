@@ -1,5 +1,17 @@
 {
+  "name": "nuitinfo2024",
+  "version": "1.0.0",
+  "description": "\"# NuitInfo2024\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "pixi.js": "^8.6.3"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
   }
 }
